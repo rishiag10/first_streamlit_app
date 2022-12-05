@@ -9,3 +9,4 @@ streamlit.text('Kale and Spinach Salad')
 streamlit.text('Orange juice')
 streamlit.text('Coffee')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
